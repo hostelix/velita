@@ -10,6 +10,7 @@ Get packages
 go get github.com/joho/godotenv
 ```
 
+Rename file .env.example to .env and adjust variables
 
 ## Build App
 
