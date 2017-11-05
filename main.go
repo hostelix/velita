@@ -21,7 +21,7 @@ func main() {
   	fmt.Println(title_app)
 
 
- 	var arrival_rate_duration_duration time.Duration
+ 	var arrival_rate_duration time.Duration
  	//var num_person int
 
  	switch os.Getenv("RATE_UNIT_TIME") {
