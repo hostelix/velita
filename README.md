@@ -1,6 +1,8 @@
 # Velita
 Velita is a simulation of the behavior of public transport in my neighborhood
 
+[![Build Status](https://travis-ci.org/hostelix/velita.svg?branch=master)](https://travis-ci.org/hostelix/velita)
+
 
 ## Installation
 
